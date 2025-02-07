@@ -1,0 +1,14 @@
+selenium~=4.10.0
+bs4~=0.0.1
+time
+re
+json
+pandas~=2.0.2
+chromedriver-autoinstaller
+gspread~=5.9.0
+oauth2client
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+openpyxl~=3.1.2
+beautifulsoup4~=4.12.2
